@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-- Check the live project :  [https://quiet-rolypoly-d81b9e.netlify.app/recipe/634710](https://quiet-rolypoly-d81b9e.netlify.app/recipe/634710)
+- Check the live project :  [https://quiet-rolypoly-d81b9e.netlify.app/](https://quiet-rolypoly-d81b9e.netlify.app/)
 
 
 
